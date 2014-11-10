@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Deber_2
 {
-    public partial class _Default : System.Web.UI.Page
+    public partial class _Default1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -40,6 +40,7 @@ namespace Deber_2
         protected void txtBonificacion_TextChanged(object sender, EventArgs e)
         {
             cambioIngresos();
+            cambioEngresos();
             iess();
         }
 
@@ -52,6 +53,7 @@ namespace Deber_2
 
         protected void txtDescuentos_TextChanged(object sender, EventArgs e)
         {
+            cambioIngresos();
             cambioEngresos();
             iess();
         }
@@ -128,14 +130,33 @@ namespace Deber_2
                 bool resultado2 = Decimal.TryParse(lblTotalIngresos.Text, out ingresos);
                 if (resultado1 && resultado2)
                 {
-                    iees = (salario + ingresos);
-                    iees = iees * porcentaje;
+                    iees = (salario) * porcentaje;
+                  
 
                     lblIess.Text = iees.ToString("N2");
 
                 }
 
             }
+        }
+
+        protected void btnProcesar_Click(object sender, EventArgs e)
+        {
+            Decimal salario = 0;
+            Decimal ingresos = 0;
+            Decimal egresos=0;
+            Decimal sueldo;
+            bool resultado1 = Decimal.TryParse(lblSalario.Text, out salario);
+            bool resultado2 = Decimal.TryParse(lblTotalIngresos.Text, out ingresos);
+            bool resultado3 = Decimal.TryParse(lblTotalEgresos.Text, out egresos);
+            sueldo = salario + ingresos - egresos;
+            Response.Redirect("Resultado.aspx?id=" + txtIdentificacion.Text + "&nom=" + txtNombre.Text + "&dep=" + ddlDepartamento.SelectedItem.Value + "&car=" + ddlCargo.SelectedItem.Value + "&sal=" + lblSalario.Text + "&ing=" + lblTotalIngresos.Text + "&egr=" + lblTotalEgresos.Text + "&sue="+sueldo);
+
+        }
+
+        protected void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx");
         }
     }
 
