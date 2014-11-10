@@ -1,0 +1,4 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\bin\Deber 2.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\bin\Deber 2.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\obj\Debug\Deber 2.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\obj\Debug\Deber 2.pdb
