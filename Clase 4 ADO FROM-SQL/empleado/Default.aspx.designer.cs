@@ -202,13 +202,13 @@ namespace empleado {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfv;
         
         /// <summary>
-        /// Control Label1.
+        /// Control lblSueldo.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label lblSueldo;
         
         /// <summary>
         /// Control txtSueldo.
@@ -229,13 +229,13 @@ namespace empleado {
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvSueldo;
         
         /// <summary>
-        /// Control Label2.
+        /// Control lblEdad.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label2;
+        protected global::System.Web.UI.WebControls.Label lblEdad;
         
         /// <summary>
         /// Control txtEdad.

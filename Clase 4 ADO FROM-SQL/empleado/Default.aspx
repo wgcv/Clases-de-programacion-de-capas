@@ -34,7 +34,8 @@
                 <asp:Label ID="lblBuscar" runat="server" Text="Buscar por:"></asp:Label>
             </td>
             <td class="style3">
-                <asp:DropDownList ID="ddlBuscar" runat="server" Height="23px" Width="208px">
+                <asp:DropDownList ID="ddlBuscar" runat="server" Height="23px" Width="208px" 
+                    AutoPostBack="True">
                     <asp:ListItem Value="codigo">Codigo</asp:ListItem>
                     <asp:ListItem Value="nombre">Nombre</asp:ListItem>
                     <asp:ListItem Value="direccion">Direccion</asp:ListItem>
@@ -42,7 +43,8 @@
 &nbsp;
                 <asp:TextBox ID="txtBuscar" runat="server"></asp:TextBox>
 &nbsp;&nbsp;
-                <asp:Button ID="btnBuscar" runat="server" Text="Buscar" />
+                <asp:Button ID="btnBuscar" runat="server" Text="Buscar" CausesValidation="False" 
+                    onclick="btnBuscar_Click" />
             </td>
             <td>
                 &nbsp;</td>
@@ -56,14 +58,14 @@
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>
                         <asp:ButtonField CommandName="modificar" Text="Modificar" />
-                        <asp:BoundField HeaderText="Codigo" />
-                        <asp:BoundField HeaderText="Nombre" />
-                        <asp:BoundField HeaderText="Direccion" />
-                        <asp:BoundField HeaderText="Telefono" />
-                        <asp:BoundField HeaderText="Sexo" />
-                        <asp:BoundField HeaderText="Sueldo" />
-                        <asp:BoundField HeaderText="Edad" />
-                        <asp:BoundField HeaderText="Estado" />
+                        <asp:BoundField HeaderText="Codigo" DataField="codigo" />
+                        <asp:BoundField HeaderText="Nombre" DataField="nombre" />
+                        <asp:BoundField HeaderText="Direccion" DataField="direccion" />
+                        <asp:BoundField HeaderText="Telefono" DataField="telefono" />
+                        <asp:BoundField HeaderText="Sexo" DataField="sexo" />
+                        <asp:BoundField HeaderText="Sueldo" DataField="sueldo" />
+                        <asp:BoundField HeaderText="Edad" DataField="edad" />
+                        <asp:BoundField HeaderText="Estado" DataField="estado" />
                         <asp:ButtonField CommandName="eliminar" Text="Eliminar" />
                     </Columns>
                     <FooterStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />
@@ -84,8 +86,8 @@
             <td class="style1">
                 &nbsp;</td>
             <td class="style2">
-                <asp:Button ID="btnNuevo" runat="server" style="margin-left: 0px" 
-                    Text="Nuevo" />
+                <asp:Button ID="btnNuevo" runat="server" style="margin-left: 0px" CausesValidation="False" 
+                    Text="Nuevo" onclick="btnNuevo_Click" />
                 <asp:Button ID="tnRefrescar" runat="server" Text="Refrescar" />
             </td>
             <td class="style1">
@@ -154,7 +156,7 @@
         </tr>
         <tr>
             <td class="style1">
-                <asp:Label ID="Label1" runat="server" Text="Sueldo"></asp:Label>
+                <asp:Label ID="lblSueldo" runat="server" Text="Sueldo"></asp:Label>
             </td>
             <td class="style2">
                 <asp:TextBox ID="txtSueldo" runat="server"></asp:TextBox>
@@ -166,7 +168,7 @@
         </tr>
         <tr>
             <td class="style1">
-                <asp:Label ID="Label2" runat="server" Text="Edad"></asp:Label>
+                <asp:Label ID="lblEdad" runat="server" Text="Edad"></asp:Label>
             </td>
             <td class="style2">
                 <asp:TextBox ID="txtEdad" runat="server"></asp:TextBox>
@@ -199,7 +201,8 @@
             <td class="style1">
                 &nbsp;</td>
             <td class="style2">
-                <asp:Button ID="btnGrabar" runat="server" Text="Grabar" />
+                <asp:Button ID="btnGrabar" runat="server" Text="Grabar" 
+                    onclick="btnGrabar_Click" />
 &nbsp;
                 <asp:Button ID="btnLimpiar" runat="server" Text="Limpiar" />
             </td>
