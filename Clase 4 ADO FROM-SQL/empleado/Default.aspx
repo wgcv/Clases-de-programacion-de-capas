@@ -54,7 +54,8 @@
             </td>
             <td class="style2">
                 <asp:GridView ID="grvEmpleado" runat="server" AutoGenerateColumns="False" 
-                    CellPadding="4" ForeColor="#333333" GridLines="None">
+                    CellPadding="4" ForeColor="#333333" GridLines="None" 
+                    onrowcommand="grvEmpleado_RowCommand">
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>
                         <asp:ButtonField CommandName="modificar" Text="Modificar" />
@@ -88,7 +89,8 @@
             <td class="style2">
                 <asp:Button ID="btnNuevo" runat="server" style="margin-left: 0px" CausesValidation="False" 
                     Text="Nuevo" onclick="btnNuevo_Click" />
-                <asp:Button ID="tnRefrescar" runat="server" Text="Refrescar" />
+                <asp:Button ID="tnRefrescar" runat="server" Text="Refrescar" 
+                    onclick="tnRefrescar_Click" />
             </td>
             <td class="style1">
                 &nbsp;</td>
@@ -202,9 +204,10 @@
                 &nbsp;</td>
             <td class="style2">
                 <asp:Button ID="btnGrabar" runat="server" Text="Grabar" 
-                    onclick="btnGrabar_Click" />
+                    onclick="btnGrabar_Click" style="height: 26px" />
 &nbsp;
-                <asp:Button ID="btnLimpiar" runat="server" Text="Limpiar" />
+                <asp:Button ID="btnLimpiar" runat="server" Text="Limpiar" 
+                    onclick="btnLimpiar_Click" />
             </td>
             <td class="style1">
                 &nbsp;</td>
