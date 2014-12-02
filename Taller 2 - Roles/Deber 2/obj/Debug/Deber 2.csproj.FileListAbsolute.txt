@@ -1,0 +1,19 @@
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\bin\Deber 2.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\bin\Deber 2.pdb
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\obj\Debug\Deber 2.dll
+c:\users\eduardo\documents\visual studio 2010\Projects\Deber 2\Deber 2\obj\Debug\Deber 2.pdb
+C:\Users\Estudiante\Downloads\Deber 2\Deber 2\Deber 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\Deber 2\Deber 2\Deber 2\obj\Debug\Deber 2.dll
+C:\Users\Estudiante\Downloads\Deber 2\Deber 2\Deber 2\bin\Deber 2.dll
+C:\Users\Estudiante\Downloads\Deber 2\Deber 2\Deber 2\bin\Deber 2.pdb
+C:\Users\Estudiante\Downloads\Deber 2\Deber 2\Deber 2\obj\Debug\Deber 2.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Deber 2- Web Forms y Data Views\Deber 2\bin\Deber 2.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Deber 2- Web Forms y Data Views\Deber 2\bin\Deber 2.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Deber 2- Web Forms y Data Views\Deber 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Deber 2- Web Forms y Data Views\Deber 2\obj\Debug\Deber 2.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Deber 2- Web Forms y Data Views\Deber 2\obj\Debug\Deber 2.pdb
+E:\Taller 2 - Roles\Deber 2\bin\Deber 2.dll
+E:\Taller 2 - Roles\Deber 2\bin\Deber 2.pdb
+E:\Taller 2 - Roles\Deber 2\obj\Debug\ResolveAssemblyReference.cache
+E:\Taller 2 - Roles\Deber 2\obj\Debug\Deber 2.dll
+E:\Taller 2 - Roles\Deber 2\obj\Debug\Deber 2.pdb
