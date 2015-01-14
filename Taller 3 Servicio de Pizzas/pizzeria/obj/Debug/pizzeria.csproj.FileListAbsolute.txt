@@ -1,0 +1,5 @@
+C:\Users\Estudiante\Desktop\pizza\pizzeria\bin\pizzeria.dll
+C:\Users\Estudiante\Desktop\pizza\pizzeria\bin\pizzeria.pdb
+C:\Users\Estudiante\Desktop\pizza\pizzeria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\pizza\pizzeria\obj\Debug\pizzeria.dll
+C:\Users\Estudiante\Desktop\pizza\pizzeria\obj\Debug\pizzeria.pdb
