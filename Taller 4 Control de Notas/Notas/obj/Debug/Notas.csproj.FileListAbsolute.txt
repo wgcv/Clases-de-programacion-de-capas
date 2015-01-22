@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Desktop\Notas\Notas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Notas\Notas\bin\Notas.dll
+C:\Users\Estudiante\Desktop\Notas\Notas\bin\Notas.pdb
+C:\Users\Estudiante\Desktop\Notas\Notas\obj\Debug\Notas.dll
+C:\Users\Estudiante\Desktop\Notas\Notas\obj\Debug\Notas.pdb
+C:\Users\Gustavo\Documents\GitHub\Clases-de-programacion-de-capas\Taller 4 Notas\Notas gus\Notas\bin\Notas.dll
+C:\Users\Gustavo\Documents\GitHub\Clases-de-programacion-de-capas\Taller 4 Notas\Notas gus\Notas\bin\Notas.pdb
+C:\Users\Gustavo\Documents\GitHub\Clases-de-programacion-de-capas\Taller 4 Notas\Notas gus\Notas\obj\Debug\Notas.dll
+C:\Users\Gustavo\Documents\GitHub\Clases-de-programacion-de-capas\Taller 4 Notas\Notas gus\Notas\obj\Debug\Notas.pdb
