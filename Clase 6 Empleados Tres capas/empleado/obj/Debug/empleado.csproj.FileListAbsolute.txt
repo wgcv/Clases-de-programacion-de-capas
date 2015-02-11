@@ -1,0 +1,20 @@
+C:\Users\Estudiante\Desktop\empleaado\empleado\empleado\bin\empleado.dll
+C:\Users\Estudiante\Desktop\empleaado\empleado\empleado\bin\empleado.pdb
+C:\Users\Estudiante\Desktop\empleaado\empleado\empleado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\empleaado\empleado\empleado\obj\Debug\empleado.dll
+C:\Users\Estudiante\Desktop\empleaado\empleado\empleado\obj\Debug\empleado.pdb
+C:\Users\Estudiante\Desktop\Clase 3 ADO FORM-SQL\empleado\empleado\bin\empleado.dll
+C:\Users\Estudiante\Desktop\Clase 3 ADO FORM-SQL\empleado\empleado\bin\empleado.pdb
+C:\Users\Estudiante\Desktop\Clase 3 ADO FORM-SQL\empleado\empleado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Clase 3 ADO FORM-SQL\empleado\empleado\obj\Debug\empleado.dll
+C:\Users\Estudiante\Desktop\Clase 3 ADO FORM-SQL\empleado\empleado\obj\Debug\empleado.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 5 Empleados Dos capas\empleado\bin\empleado.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 5 Empleados Dos capas\empleado\bin\empleado.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 5 Empleados Dos capas\empleado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 5 Empleados Dos capas\empleado\obj\Debug\empleado.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 5 Empleados Dos capas\empleado\obj\Debug\empleado.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 6 Empleados Tres capas\empleado\bin\empleado.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 6 Empleados Tres capas\empleado\bin\empleado.pdb
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 6 Empleados Tres capas\empleado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 6 Empleados Tres capas\empleado\obj\Debug\empleado.dll
+C:\Users\Estudiante\Downloads\Clases-de-programacion-de-capas-master\Clases-de-programacion-de-capas-master\Clase 6 Empleados Tres capas\empleado\obj\Debug\empleado.pdb
